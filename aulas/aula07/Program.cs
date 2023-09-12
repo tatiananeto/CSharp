@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Programa
+{
+    static void Main(string[] args)
+{
+        for (int i = 0; i < args.Length; i++)
+             {
+            Console.WriteLine(args[i]);
+             }
+         }
+     }

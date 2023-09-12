@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\bin\Debug\net7.0\teste main.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\bin\Debug\net7.0\teste main.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\bin\Debug\net7.0\teste main.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\bin\Debug\net7.0\teste main.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\bin\Debug\net7.0\teste main.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\refint\teste main.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\teste main.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\teste main\obj\Debug\net7.0\ref\teste main.dll
