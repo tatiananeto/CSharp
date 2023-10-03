@@ -35,6 +35,6 @@
 
         Console.WriteLine(valor);
         Console.WriteLine(valor2);
-        Console.WriteLine(valor3);
+        Console.WriteLine("valores: " +valor3);
     }
 }
