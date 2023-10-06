@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\bin\Debug\net7.0\metodo.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\bin\Debug\net7.0\metodo.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\bin\Debug\net7.0\metodo.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\bin\Debug\net7.0\metodo.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\bin\Debug\net7.0\metodo.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\refint\metodo.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\metodo.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\metodo\obj\Debug\net7.0\ref\metodo.dll
