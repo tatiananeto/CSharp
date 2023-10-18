@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\bin\Debug\net7.0\destrutor.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\bin\Debug\net7.0\destrutor.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\bin\Debug\net7.0\destrutor.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\bin\Debug\net7.0\destrutor.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\bin\Debug\net7.0\destrutor.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\refint\destrutor.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\destrutor.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\destrutor\obj\Debug\net7.0\ref\destrutor.dll
