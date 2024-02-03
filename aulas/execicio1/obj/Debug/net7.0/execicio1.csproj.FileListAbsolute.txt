@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\bin\Debug\net7.0\execicio1.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\bin\Debug\net7.0\execicio1.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\bin\Debug\net7.0\execicio1.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\bin\Debug\net7.0\execicio1.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\bin\Debug\net7.0\execicio1.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\refint\execicio1.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\execicio1.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\execicio1\obj\Debug\net7.0\ref\execicio1.dll

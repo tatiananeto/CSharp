@@ -1,0 +1,10 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\bin\Debug\MessagemBox.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\bin\Debug\MessagemBox.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\bin\Debug\MessagemBox.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\MessagemBox\obj\Debug\MessagemBox.pdb

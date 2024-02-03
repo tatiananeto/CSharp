@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\bin\Debug\net7.0\public e private.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\bin\Debug\net7.0\public e private.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\bin\Debug\net7.0\public e private.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\bin\Debug\net7.0\public e private.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\bin\Debug\net7.0\public e private.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\refint\public e private.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\public e private.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\public e private\obj\Debug\net7.0\ref\public e private.dll

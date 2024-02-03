@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.AssemblyInfoInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.AssemblyInfo.cs
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\bin\Debug\net7.0\herança 2.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\bin\Debug\net7.0\herança 2.deps.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\bin\Debug\net7.0\herança 2.runtimeconfig.json
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\bin\Debug\net7.0\herança 2.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\bin\Debug\net7.0\herança 2.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\refint\herança 2.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\herança 2.genruntimeconfig.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\herança 2\obj\Debug\net7.0\ref\herança 2.dll

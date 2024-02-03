@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\bin\Debug\componentes.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\bin\Debug\componentes.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\bin\Debug\componentes.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.F_Principal.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.F_veiculos.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.F_CheckBox.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.F_Checkedlistbox.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\componentes\obj\Debug\componentes.F_FilhoCheckBox.resources

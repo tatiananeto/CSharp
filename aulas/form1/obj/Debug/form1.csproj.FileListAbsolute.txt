@@ -1,0 +1,10 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\bin\Debug\form1.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\bin\Debug\form1.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\bin\Debug\form1.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\form1\obj\Debug\form1.pdb
