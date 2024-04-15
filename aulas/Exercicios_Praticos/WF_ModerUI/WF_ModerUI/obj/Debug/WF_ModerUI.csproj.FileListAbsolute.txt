@@ -1,0 +1,26 @@
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe.config
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.pdb
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csprojAssemblyReference.cache
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.FormMenu.resources
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Properties.Resources.resources
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csproj.GenerateResource.cache
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csproj.CoreCompileInputs.cache
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.exe
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.pdb
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form1.resources
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form2.resources
+c:\cshp_setembro_2018\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form3.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe.config
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.exe
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\bin\Debug\WF_ModerUI.pdb
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form1.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form2.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Form3.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.FormMenu.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.Properties.Resources.resources
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.exe
+C:\Users\LELA'S PC\Desktop\Prova de TLP\WF_ModerUI\WF_ModerUI\obj\Debug\WF_ModerUI.pdb

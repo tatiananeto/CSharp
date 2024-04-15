@@ -58,7 +58,7 @@ namespace componentes
 
         private void btn_mostrar_Click(object sender, EventArgs e)
         {
-            F_veiculos f_Veiculos = new F_veiculos(tb_lista_veiculo.Text, this);// criar um obscto da classe
+            F_veiculos f_Veiculos = new F_veiculos(/*tb_lista_veiculo.Text,*/ this);// criar um obscto da classe
             f_Veiculos.ShowDialog();// mostar o formulario, o show dialog nao permite escrever no formulario anterior antes de feichar o atual
         }
 

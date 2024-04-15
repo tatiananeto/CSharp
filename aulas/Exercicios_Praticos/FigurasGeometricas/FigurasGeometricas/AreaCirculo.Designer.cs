@@ -75,6 +75,7 @@
             this.Name = "AreaCirculo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Área Círculo";
+            this.Load += new System.EventHandler(this.AreaCirculo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

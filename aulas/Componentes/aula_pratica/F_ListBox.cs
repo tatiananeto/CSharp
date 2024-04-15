@@ -14,6 +14,8 @@ namespace aula_pratica
     {
         List<string> disciplinas = new List<string>();
 
+      
+
         public F_ListBox()
         {
             InitializeComponent();
@@ -24,11 +26,18 @@ namespace aula_pratica
 
             lb_disciplinas.DataSource = disciplinas; //ASSOciar esta lista ao meu listbox, uso o datasouce, para incializar o listbox
         }
+        private void actualizar(ListBox lb, List<string> l)
+        {
+            lb.DataSource = null;
+            lb.DataSource = l;
+        }
 
         private void F_ListBox_Load(object sender, EventArgs e)
         {
 
         }
+
+      
 
         private void btn_adicionar_Click(object sender, EventArgs e)
         {
@@ -41,8 +50,9 @@ namespace aula_pratica
             {
                 disciplinas.Add (tb_disciplina.Text);
                 tb_disciplina.Clear();
-                lb_disciplinas.DataSource = null;// para aparecer no list box
-                lb_disciplinas.DataSource = disciplinas;
+                //lb_disciplinas.DataSource = null;// para aparecer no list box
+                //lb_disciplinas.DataSource = disciplinas;
+                actualizar(lb_disciplinas, disciplinas);
                 tb_disciplina.Focus ();
             }
         }
@@ -50,8 +60,9 @@ namespace aula_pratica
         private void btn_remover_Click(object sender, EventArgs e)
         {
             disciplinas.RemoveAt(lb_disciplinas.SelectedIndex);// remove de acordo com a osicao
-            lb_disciplinas.DataSource = null;
-            lb_disciplinas.DataSource = disciplinas;
+            //lb_disciplinas.DataSource = null;
+            //lb_disciplinas.DataSource = disciplinas;
+             actualizar(lb_disciplinas, disciplinas);
         }
 
         private void btn_obter_Click(object sender, EventArgs e)
@@ -62,8 +73,9 @@ namespace aula_pratica
         private void btn_limpar_Click(object sender, EventArgs e)
         {
             disciplinas.Clear();
-            lb_disciplinas.DataSource = null;
-            lb_disciplinas.DataSource = disciplinas;
+            //lb_disciplinas.DataSource = null;
+            //lb_disciplinas.DataSource = disciplinas;
+            actualizar(lb_disciplinas, disciplinas);
         }
 
         private void btn_resetar_Click(object sender, EventArgs e)
@@ -72,8 +84,10 @@ namespace aula_pratica
             disciplinas.Add("TLP");
             disciplinas.Add("TIC");
             disciplinas.Add("SEAC");
-            lb_disciplinas.DataSource = null;
-            lb_disciplinas.DataSource = disciplinas;
+                //lb_disciplinas.DataSource = null;
+                //lb_disciplinas.DataSource = disciplinas;
+                actualizar(lb_disciplinas, disciplinas);
+                return;
             }
         }
     }

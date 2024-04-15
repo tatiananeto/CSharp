@@ -31,5 +31,10 @@ namespace aula_pratica
         {
 
         }
+
+        private void tb_lista_disciplinas_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\LoginGenerico\LoginGenerico\obj\x86\Debug\LoginGenerico.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\LoginGenerico\LoginGenerico\obj\x86\Debug\LoginGenerico.Login.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\LoginGenerico\LoginGenerico\obj\x86\Debug\LoginGenerico.Principal.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\LoginGenerico\LoginGenerico\obj\x86\Debug\LoginGenerico.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\LoginGenerico\LoginGenerico\obj\x86\Debug\LoginGenerico.csproj.GenerateResource.cache

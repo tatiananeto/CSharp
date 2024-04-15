@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.AreaCirculo.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.AreaQuadrado.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.AreaRetangulo.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.AreaTriangulo.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.FormPrincipal.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.pdb

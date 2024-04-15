@@ -1,0 +1,10 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\bin\Debug\VerificarProcesso.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\bin\Debug\VerificarProcesso.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\bin\Debug\VerificarProcesso.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\VerificarProcesso\VerificarProcesso\obj\x86\Debug\VerificarProcesso.pdb

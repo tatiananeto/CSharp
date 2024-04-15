@@ -1,0 +1,11 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\IMC\IMC\obj\x86\Debug\IMC.F_teste.resources

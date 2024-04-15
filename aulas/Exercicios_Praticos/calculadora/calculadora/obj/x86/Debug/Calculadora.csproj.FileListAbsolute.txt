@@ -1,0 +1,19 @@
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora\calculadora\obj\x86\Debug\calculadora.pdb

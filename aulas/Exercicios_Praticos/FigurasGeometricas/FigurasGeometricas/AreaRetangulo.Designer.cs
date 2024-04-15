@@ -98,6 +98,7 @@
             this.Name = "AreaRetangulo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Área Retângulo";
+            this.Load += new System.EventHandler(this.AreaRetangulo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

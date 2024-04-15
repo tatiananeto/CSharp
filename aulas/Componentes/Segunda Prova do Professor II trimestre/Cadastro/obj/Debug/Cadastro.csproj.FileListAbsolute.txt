@@ -1,0 +1,12 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\bin\Debug\MaterialSkin.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.csproj.CopyComplete
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Cadastro\obj\Debug\Cadastro.Form1.resources

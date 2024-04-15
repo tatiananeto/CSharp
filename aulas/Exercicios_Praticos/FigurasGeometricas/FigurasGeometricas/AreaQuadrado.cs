@@ -28,5 +28,10 @@ namespace FigurasGeometricas
                 lblArea.Text = "Erro";
             }
         }
+
+        private void AreaQuadrado_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

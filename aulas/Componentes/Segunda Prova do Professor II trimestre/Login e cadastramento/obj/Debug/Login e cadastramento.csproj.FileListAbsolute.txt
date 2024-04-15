@@ -1,0 +1,15 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\bin\Debug\Login e cadastramento.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\bin\Debug\Login e cadastramento.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\bin\Debug\Login e cadastramento.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\bin\Debug\MaterialSkin.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login_e_cadastramento.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login_e_cadastramento.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.csproj.CopyComplete
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login e cadastramento.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login_e_cadastramento.F_Registro.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login_e_cadastramento.F_Menu.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login e cadastramento\obj\Debug\Login_e_cadastramento.F_lista_Funcionarios.resources

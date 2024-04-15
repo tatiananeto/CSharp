@@ -1,0 +1,11 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\bin\Debug\Indice de massa corporal.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\bin\Debug\Indice de massa corporal.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\bin\Debug\Indice de massa corporal.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice de massa corporal.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice_de_massa_corporal.F_Principal.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice_de_massa_corporal.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice de massa corporal.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice de massa corporal.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice de massa corporal.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice de massa corporal.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Indice de massa corporal\obj\Debug\Indice_de_massa_corporal.F_Dicas.resources

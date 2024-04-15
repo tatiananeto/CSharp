@@ -39,6 +39,7 @@
             this.tb_lista_disciplinas.Name = "tb_lista_disciplinas";
             this.tb_lista_disciplinas.Size = new System.Drawing.Size(332, 289);
             this.tb_lista_disciplinas.TabIndex = 0;
+            this.tb_lista_disciplinas.TextChanged += new System.EventHandler(this.tb_lista_disciplinas_TextChanged_1);
             // 
             // lb_texto
             // 

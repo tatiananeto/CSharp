@@ -1,0 +1,81 @@
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+F:\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+C:\Users\Formando\Desktop\Pen\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+G:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+F:\Pen\formularios c#\formularios c#\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+C:\Users\Nash\Desktop\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+D:\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csprojResolveAssemblyReference.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.Cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.CoreCompileInputs.cache
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+D:\Projetos\Cinel\Disciplinas\Programação C#\Projectos\Enunciado para Avaliação\trabalho final 2\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\bin\Debug\Calculadora Formulário.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Calculadora.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora_Formulário.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Calculadora-Winforms---Calculator-Winforms-master\Calculadora Formulário - Cópia\Calculadora Formulário\obj\Debug\Calculadora Formulário.pdb

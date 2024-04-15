@@ -39,5 +39,10 @@ namespace FigurasGeometricas
             AreaRetangulo area = new AreaRetangulo();
             area.ShowDialog();
         }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

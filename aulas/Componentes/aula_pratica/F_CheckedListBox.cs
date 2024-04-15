@@ -59,5 +59,10 @@ namespace aula_pratica
                 
             }
         }
+
+        private void tb_nova_disciplina_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -38,5 +38,10 @@ namespace FigurasGeometricas
         {
             calcularAreaRetangulo();
         }
+
+        private void AreaRetangulo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

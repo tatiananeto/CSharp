@@ -33,10 +33,11 @@ namespace aula_pratica
                 tb_disciplinas.Focus();
                 return;
             }
+            
             tb_lista_disciplinas.Text += tb_disciplinas.Text + ", ";
             tb_disciplinas.Clear();
             tb_disciplinas.Focus();
-
+            
         }
 
         private void btn_limpar_Click(object sender, EventArgs e)
@@ -92,6 +93,58 @@ namespace aula_pratica
         {
             F_ListBox f_ListBox = new F_ListBox();
             f_ListBox.ShowDialog();
+        }
+
+        private void listViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_ListView f_ListView = new F_ListView();
+            f_ListView.ShowDialog();
+        }
+
+        private void maskedTextBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_MaskedTextBox f_MaskedTextBox = new F_MaskedTextBox();
+            f_MaskedTextBox.ShowDialog();
+        }
+
+        private void monthCalendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_MonthCalendar f_MonthCalendar = new F_MonthCalendar();
+            f_MonthCalendar.ShowDialog();
+        }
+
+        private void MenuNotificacoes_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if(e.ClickedItem.Name.ToString() == "tsmi_fechar") {
+                this.Close();
+            }
+            else if(e.ClickedItem.Name.ToString() == "tsmi_restaurar")
+            {
+                this.WindowState = FormWindowState.Normal;// para clocar os estado do windows
+            }else if(e.ClickedItem.Name.ToString() == "tsmi_mensagem")
+            {
+                MessageBox.Show("Ola mundo em C#", "Aula Pratica", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
+
+            
+        }
+
+        private void tsmi_restaurar_Click(object sender, EventArgs e)
+        {
+            this.WindowState= FormWindowState.Normal; // para clicar com a parte esquerda do mouse
+        }
+
+        private void numericUpDownToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_NumericUpDown f_NumericUpDown = new F_NumericUpDown();
+            f_NumericUpDown.ShowDialog();
+        }
+
+        private void sQLiteToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            F_Sqlite f_Sqlite = new F_Sqlite();
+            f_Sqlite.ShowDialog();
         }
     }
 }

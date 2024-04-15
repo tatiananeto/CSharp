@@ -1,0 +1,11 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\bin\Debug\ContagemRegressiva.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.Contagem.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\ContagemRegressiva\ContagemRegressiva\obj\x86\Debug\ContagemRegressiva.pdb

@@ -1,0 +1,12 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\bin\Debug\Login.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\bin\Debug\Login.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\bin\Debug\Login.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\bin\Debug\MaterialSkin.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Login\obj\Debug\Login.pdb

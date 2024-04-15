@@ -45,5 +45,10 @@ namespace aula_pratica
         {
             System.Diagnostics.Process.Start("file:///C:/Users/LELA'S%20PC/Documents/TLP/Material/Materia%20de%20TLP(estudo)/C%23/apostila-csharp-orientacao-objetos.pdf");
         }
+
+        private void F_LinkLabel_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

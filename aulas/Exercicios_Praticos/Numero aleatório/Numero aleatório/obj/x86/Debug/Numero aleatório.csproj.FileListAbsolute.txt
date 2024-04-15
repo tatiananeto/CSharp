@@ -1,0 +1,10 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\bin\Debug\Numero aleatório.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\bin\Debug\Numero aleatório.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\bin\Debug\Numero aleatório.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero aleatório.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero_aleatório.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero_aleatório.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero aleatório.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero aleatório.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero aleatório.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Numero aleatório\Numero aleatório\obj\x86\Debug\Numero aleatório.pdb

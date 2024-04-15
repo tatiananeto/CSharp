@@ -1,0 +1,10 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.pdb

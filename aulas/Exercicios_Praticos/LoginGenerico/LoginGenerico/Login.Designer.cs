@@ -119,6 +119,7 @@
             this.pbBackground.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pbBackground.TabIndex = 6;
             this.pbBackground.TabStop = false;
+            this.pbBackground.Click += new System.EventHandler(this.pbBackground_Click);
             // 
             // pbCadeado
             // 

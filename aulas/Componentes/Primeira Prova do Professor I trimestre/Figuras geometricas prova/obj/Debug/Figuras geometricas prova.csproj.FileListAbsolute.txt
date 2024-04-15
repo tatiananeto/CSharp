@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\bin\Debug\Figuras geometricas prova.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\bin\Debug\Figuras geometricas prova.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\bin\Debug\Figuras geometricas prova.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras geometricas prova.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.F_Principal.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras geometricas prova.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras geometricas prova.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras geometricas prova.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras geometricas prova.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.F_Circlo.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.F_Quadrado.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.F_Rectangulo.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Primeira Prova do Professor I trimestre\Figuras geometricas prova\obj\Debug\Figuras_geometricas_prova.F_Triangulo.resources

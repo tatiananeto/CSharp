@@ -13,13 +13,14 @@ namespace componentes
     public partial class F_veiculos : Form
     {
         F_Principal fp;
-        public F_veiculos(String v, F_Principal f)
+        public F_veiculos(F_Principal f)
         {
             InitializeComponent();
-            tb_listaveiculo.Text = v;
+            //tb_listaveiculo.Text = v;
 
             fp = f;
             f.num = 10;
+            
         }
 
         private void tb_listaveiculo_TextChanged(object sender, EventArgs e)

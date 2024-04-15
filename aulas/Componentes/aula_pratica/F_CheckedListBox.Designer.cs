@@ -96,6 +96,7 @@
             this.tb_nova_disciplina.Name = "tb_nova_disciplina";
             this.tb_nova_disciplina.Size = new System.Drawing.Size(248, 26);
             this.tb_nova_disciplina.TabIndex = 5;
+            this.tb_nova_disciplina.TextChanged += new System.EventHandler(this.tb_nova_disciplina_TextChanged);
             // 
             // lb_texto
             // 
@@ -121,7 +122,7 @@
             this.Controls.Add(this.clb_disciplinas);
             this.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "F_CheckedListBox";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "F_CheckedListBox";

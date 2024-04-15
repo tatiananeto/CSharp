@@ -28,5 +28,10 @@ namespace FigurasGeometricas
                 lblArea.Text = "Erro";
             }
         }
+
+        private void AreaCirculo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

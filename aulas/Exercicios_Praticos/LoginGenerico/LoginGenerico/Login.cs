@@ -81,5 +81,10 @@ namespace LoginGenerico
         {
             lblDadosInvalidos.Visible = false;
         }
+
+        private void pbBackground_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

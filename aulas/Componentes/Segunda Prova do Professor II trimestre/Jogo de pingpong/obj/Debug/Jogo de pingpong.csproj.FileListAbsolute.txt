@@ -1,0 +1,11 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\bin\Debug\Jogo de pingpong.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\bin\Debug\Jogo de pingpong.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\bin\Debug\Jogo de pingpong.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo de pingpong.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo_de_pingpong.Form1.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo_de_pingpong.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo de pingpong.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo de pingpong.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo de pingpong.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo de pingpong.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Componentes\Segunda Prova do Professor II trimestre\Jogo de pingpong\obj\Debug\Jogo_de_pingpong.F_Jogo.resources

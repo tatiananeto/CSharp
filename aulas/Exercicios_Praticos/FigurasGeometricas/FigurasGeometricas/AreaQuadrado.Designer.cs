@@ -75,6 +75,7 @@
             this.Name = "AreaQuadrado";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Área Quadrado";
+            this.Load += new System.EventHandler(this.AreaQuadrado_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

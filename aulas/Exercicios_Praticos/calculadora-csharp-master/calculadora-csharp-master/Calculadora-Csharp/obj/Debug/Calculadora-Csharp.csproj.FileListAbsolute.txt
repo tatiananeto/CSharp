@@ -1,0 +1,14 @@
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\bin\Debug\Calculadora-Csharp.exe.config
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\bin\Debug\Calculadora-Csharp.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\bin\Debug\Calculadora-Csharp.pdb
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\bin\Debug\pt-BR\Calculadora-Csharp.resources.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora-Csharp.csproj.AssemblyReference.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora_Csharp.Background.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora_Csharp.Form2.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora_Csharp.Properties.Resources.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora_Csharp.Background.pt-BR.resources
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora-Csharp.csproj.GenerateResource.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\pt-BR\Calculadora-Csharp.resources.dll
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora-Csharp.exe
+C:\Users\LELA'S PC\Documents\Aulas da 11 classe\CSharp\aulas\Exercicios_Praticos\calculadora-csharp-master\calculadora-csharp-master\Calculadora-Csharp\obj\Debug\Calculadora-Csharp.pdb
